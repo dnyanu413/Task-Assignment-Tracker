@@ -72,7 +72,7 @@ The application was implemented step-by-step using Salesforce Admin features:
 ---
 
 ## **Project Diagram**
-![Flowchart](diagram/task_assignment_tracker_flowchart.png)
+![Flowchart](Screenshots/diagram/task_assignment_tracker_flowchart.png)
 
 ---
 
